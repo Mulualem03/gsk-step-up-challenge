@@ -1,5 +1,7 @@
 # GSK x DigData Step Up Career Challenge
 
+**Live demo:** https://mulualem03.github.io/gsk-step-up-challenge/MiraculonRx_prototype.html
+
 End-to-end analysis and prototype for a Phase-3 oncology trial of a novel drug (Miraculon-B), completed as part of the GSK Step Up virtual work experience programme.
 
 ## Headline findings
